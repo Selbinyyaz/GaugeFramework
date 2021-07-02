@@ -1,0 +1,211 @@
+01-07-2021 19:46:16.041 [Gauge] [INFO] Watching directory: /Users/agamselbi/Documents/IntelijProjects/Gauge/specs
+01-07-2021 19:46:16.041 [Gauge] [DEBUG] Found 1 files
+01-07-2021 19:46:16.042 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+01-07-2021 19:46:16.042 [Gauge] [INFO] Initializing specs cache with 1 specs
+01-07-2021 19:46:16.042 [Gauge] [DEBUG] Adding specs from /Users/agamselbi/Documents/IntelijProjects/Gauge/specs/example.spec
+01-07-2021 19:46:16.042 [Gauge] [INFO] Initializing steps cache with 1 steps
+01-07-2021 19:46:16.043 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55478
+01-07-2021 19:46:35.153 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Open the Gauge homepage"}
+01-07-2021 19:46:35.154 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"}}
+01-07-2021 19:46:36.146 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Gauge Get Started Page"}
+01-07-2021 19:46:36.147 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"}}
+01-07-2021 19:46:36.362 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure installation instructions are available"}
+01-07-2021 19:46:36.362 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+01-07-2021 20:39:36.233 [Gauge] [INFO] Spec file added / modified: /Users/agamselbi/Documents/IntelijProjects/Gauge/specs/Login.spec
+01-07-2021 20:39:36.237 [Gauge] [INFO] Spec file removed: /Users/agamselbi/Documents/IntelijProjects/Gauge/specs/example.spec
+01-07-2021 20:39:47.213 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to D Get Started Page"}
+01-07-2021 20:39:47.213 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to D Get Started Page" parameterizedStepValue:"Go to D Get Started Page"}}
+01-07-2021 20:39:47.266 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+01-07-2021 20:39:47.266 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"} allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"}}
+01-07-2021 20:39:47.274 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+01-07-2021 20:39:47.274 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+01-07-2021 20:39:47.279 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+01-07-2021 20:39:47.280 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+01-07-2021 20:39:47.280 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+01-07-2021 20:39:47.280 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+01-07-2021 20:39:47.634 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Di Get Started Page"}
+01-07-2021 20:39:47.634 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Di Get Started Page" parameterizedStepValue:"Go to Di Get Started Page"}}
+01-07-2021 20:39:47.827 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Dil Get Started Page"}
+01-07-2021 20:39:47.827 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Dil Get Started Page" parameterizedStepValue:"Go to Dil Get Started Page"}}
+01-07-2021 20:39:48.063 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Dill Get Started Page"}
+01-07-2021 20:39:48.063 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Dill Get Started Page" parameterizedStepValue:"Go to Dill Get Started Page"}}
+01-07-2021 20:39:49.107 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Dilla Get Started Page"}
+01-07-2021 20:39:49.108 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Dilla Get Started Page" parameterizedStepValue:"Go to Dilla Get Started Page"}}
+01-07-2021 20:39:49.493 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Dillar Get Started Page"}
+01-07-2021 20:39:49.493 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Dillar Get Started Page" parameterizedStepValue:"Go to Dillar Get Started Page"}}
+01-07-2021 20:39:49.639 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Dillard Get Started Page"}
+01-07-2021 20:39:49.639 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Dillard Get Started Page" parameterizedStepValue:"Go to Dillard Get Started Page"}}
+01-07-2021 20:39:50.938 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Dillards Get Started Page"}
+01-07-2021 20:39:50.938 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Dillards Get Started Page" parameterizedStepValue:"Go to Dillards Get Started Page"}}
+01-07-2021 20:44:17.336 [Gauge] [INFO] Spec file added / modified: /Users/agamselbi/Documents/IntelijProjects/Gauge/specs/LoginPage.spec
+01-07-2021 20:44:17.342 [Gauge] [INFO] Spec file removed: /Users/agamselbi/Documents/IntelijProjects/Gauge/specs/Login.spec
+01-07-2021 20:46:10.303 [Gauge] [INFO] Spec file added / modified: /Users/agamselbi/Documents/IntelijProjects/Gauge/specs/Login.spec
+01-07-2021 20:46:10.305 [Gauge] [INFO] Spec file removed: /Users/agamselbi/Documents/IntelijProjects/Gauge/specs/LoginPage.spec
+01-07-2021 20:49:05.123 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Open the D homepage"}
+01-07-2021 20:49:05.123 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Open the D homepage" parameterizedStepValue:"Open the D homepage"}}
+01-07-2021 20:49:05.186 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+01-07-2021 20:49:05.186 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Dillards Get Started Page" parameterizedStepValue:"Go to Dillards Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+01-07-2021 20:49:05.187 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+01-07-2021 20:49:05.187 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+01-07-2021 20:49:05.190 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+01-07-2021 20:49:05.190 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Dillards Get Started Page" parameterizedStepValue:"Go to Dillards Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+01-07-2021 20:49:05.190 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+01-07-2021 20:49:05.190 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+01-07-2021 20:49:05.416 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Open the Di homepage"}
+01-07-2021 20:49:05.418 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Open the Di homepage" parameterizedStepValue:"Open the Di homepage"}}
+01-07-2021 20:49:05.796 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Open the Dil homepage"}
+01-07-2021 20:49:05.796 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Open the Dil homepage" parameterizedStepValue:"Open the Dil homepage"}}
+01-07-2021 20:49:06.071 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Open the Dill homepage"}
+01-07-2021 20:49:06.072 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Open the Dill homepage" parameterizedStepValue:"Open the Dill homepage"}}
+01-07-2021 20:49:07.377 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Open the Dilla homepage"}
+01-07-2021 20:49:07.377 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Open the Dilla homepage" parameterizedStepValue:"Open the Dilla homepage"}}
+01-07-2021 20:49:07.827 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Open the Dillar homepage"}
+01-07-2021 20:49:07.827 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Open the Dillar homepage" parameterizedStepValue:"Open the Dillar homepage"}}
+01-07-2021 20:49:08.085 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Open the Dillard homepage"}
+01-07-2021 20:49:08.085 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Open the Dillard homepage" parameterizedStepValue:"Open the Dillard homepage"}}
+01-07-2021 20:49:09.182 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Open the Dillards homepage"}
+01-07-2021 20:49:09.182 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Open the Dillards homepage" parameterizedStepValue:"Open the Dillards homepage"}}
+01-07-2021 20:49:34.402 [Gauge] [INFO] Spec file added / modified: /Users/agamselbi/Documents/IntelijProjects/Gauge/specs/LoginPage.spec
+01-07-2021 20:49:34.404 [Gauge] [INFO] Spec file removed: /Users/agamselbi/Documents/IntelijProjects/Gauge/specs/Login.spec
+01-07-2021 20:49:47.512 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+01-07-2021 20:49:47.514 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Dillards Get Started Page" parameterizedStepValue:"Go to Dillards Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+01-07-2021 20:49:47.515 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+01-07-2021 20:49:47.515 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+01-07-2021 20:49:47.516 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+01-07-2021 20:49:47.516 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Dillards Get Started Page" parameterizedStepValue:"Go to Dillards Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+01-07-2021 20:49:47.517 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+01-07-2021 20:49:47.517 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+01-07-2021 20:49:48.799 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Open the Da homepage"}
+01-07-2021 20:49:48.799 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Open the Da homepage" parameterizedStepValue:"Open the Da homepage"}}
+01-07-2021 20:49:50.605 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+01-07-2021 20:49:50.605 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Dillards Get Started Page" parameterizedStepValue:"Go to Dillards Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+01-07-2021 20:49:50.613 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+01-07-2021 20:49:50.613 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+01-07-2021 20:49:50.622 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+01-07-2021 20:49:50.622 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Dillards Get Started Page" parameterizedStepValue:"Go to Dillards Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+01-07-2021 20:49:50.623 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+01-07-2021 20:49:50.623 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+01-07-2021 20:49:55.092 [Gauge] [INFO] Spec file added / modified: /Users/agamselbi/Documents/IntelijProjects/Gauge/specs/LoginPage.spec
+01-07-2021 20:50:29.871 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Open the Dillard's homepage"}
+01-07-2021 20:50:29.872 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Open the Dillard's homepage" parameterizedStepValue:"Open the Dillard's homepage"}}
+01-07-2021 20:51:15.560 [Gauge] [INFO] Spec file added / modified: /Users/agamselbi/Documents/IntelijProjects/Gauge/specs/LoginPage.spec
+01-07-2021 23:28:22.411 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Dillards  Page"}
+01-07-2021 23:28:22.413 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Dillards  Page" parameterizedStepValue:"Go to Dillards  Page"}}
+01-07-2021 23:28:23.043 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Dillards L Page"}
+01-07-2021 23:28:23.045 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Dillards L Page" parameterizedStepValue:"Go to Dillards L Page"}}
+01-07-2021 23:28:23.067 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+01-07-2021 23:28:23.068 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Dillard's homepage" parameterizedStepValue:"Open the Dillard's homepage"} allSteps:{stepValue:"Go to Dillards Get Started Page" parameterizedStepValue:"Go to Dillards Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+01-07-2021 23:28:23.069 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+01-07-2021 23:28:23.069 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+01-07-2021 23:28:23.072 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+01-07-2021 23:28:23.072 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Go to Dillards Get Started Page" parameterizedStepValue:"Go to Dillards Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"} allSteps:{stepValue:"Open the Dillard's homepage" parameterizedStepValue:"Open the Dillard's homepage"}}
+01-07-2021 23:28:23.073 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+01-07-2021 23:28:23.073 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+01-07-2021 23:28:23.250 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Dillards Lo Page"}
+01-07-2021 23:28:23.250 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Dillards Lo Page" parameterizedStepValue:"Go to Dillards Lo Page"}}
+01-07-2021 23:28:23.515 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Dillards Log Page"}
+01-07-2021 23:28:23.518 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Dillards Log Page" parameterizedStepValue:"Go to Dillards Log Page"}}
+01-07-2021 23:28:23.633 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Dillards Logi Page"}
+01-07-2021 23:28:23.634 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Dillards Logi Page" parameterizedStepValue:"Go to Dillards Logi Page"}}
+01-07-2021 23:28:23.864 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Dillards Login Page"}
+01-07-2021 23:28:23.864 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Dillards Login Page" parameterizedStepValue:"Go to Dillards Login Page"}}
+01-07-2021 23:28:37.037 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Dillard's Get Started Page"}
+01-07-2021 23:28:37.042 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Dillard's Get Started Page" parameterizedStepValue:"Go to Dillard's Get Started Page"}}
+01-07-2021 23:28:41.338 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Dillard's  Page"}
+01-07-2021 23:28:41.340 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Dillard's  Page" parameterizedStepValue:"Go to Dillard's  Page"}}
+01-07-2021 23:28:42.658 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Dillard's Login Page"}
+01-07-2021 23:28:42.658 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Dillard's Login Page" parameterizedStepValue:"Go to Dillard's Login Page"}}
+01-07-2021 23:32:55.271 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure  instructions are available"}
+01-07-2021 23:32:55.272 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure  instructions are available" parameterizedStepValue:"Ensure  instructions are available"}}
+01-07-2021 23:32:55.840 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure L instructions are available"}
+01-07-2021 23:32:55.842 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure L instructions are available" parameterizedStepValue:"Ensure L instructions are available"}}
+01-07-2021 23:32:55.875 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+01-07-2021 23:32:55.875 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Dillard's homepage" parameterizedStepValue:"Open the Dillard's homepage"} allSteps:{stepValue:"Go to Dillards Get Started Page" parameterizedStepValue:"Go to Dillards Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+01-07-2021 23:32:55.876 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+01-07-2021 23:32:55.876 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+01-07-2021 23:32:55.881 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+01-07-2021 23:32:55.881 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Dillard's homepage" parameterizedStepValue:"Open the Dillard's homepage"} allSteps:{stepValue:"Go to Dillards Get Started Page" parameterizedStepValue:"Go to Dillards Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+01-07-2021 23:32:55.882 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+01-07-2021 23:32:55.882 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+01-07-2021 23:32:56.092 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Lo instructions are available"}
+01-07-2021 23:32:56.093 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Lo instructions are available" parameterizedStepValue:"Ensure Lo instructions are available"}}
+01-07-2021 23:32:56.605 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Log instructions are available"}
+01-07-2021 23:32:56.605 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Log instructions are available" parameterizedStepValue:"Ensure Log instructions are available"}}
+01-07-2021 23:32:57.099 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login instructions are available"}
+01-07-2021 23:32:57.102 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login instructions are available" parameterizedStepValue:"Ensure Login instructions are available"}}
+01-07-2021 23:33:12.236 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login P are available"}
+01-07-2021 23:33:12.238 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login P are available" parameterizedStepValue:"Ensure Login P are available"}}
+01-07-2021 23:33:12.253 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+01-07-2021 23:33:12.253 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Go to Dillards Get Started Page" parameterizedStepValue:"Go to Dillards Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"} allSteps:{stepValue:"Open the Dillard's homepage" parameterizedStepValue:"Open the Dillard's homepage"}}
+01-07-2021 23:33:12.254 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+01-07-2021 23:33:12.254 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+01-07-2021 23:33:12.258 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+01-07-2021 23:33:12.259 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Dillard's homepage" parameterizedStepValue:"Open the Dillard's homepage"} allSteps:{stepValue:"Go to Dillards Get Started Page" parameterizedStepValue:"Go to Dillards Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+01-07-2021 23:33:12.259 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+01-07-2021 23:33:12.259 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+01-07-2021 23:33:12.514 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login Pa are available"}
+01-07-2021 23:33:12.514 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login Pa are available" parameterizedStepValue:"Ensure Login Pa are available"}}
+01-07-2021 23:33:12.728 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login Pag are available"}
+01-07-2021 23:33:12.729 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login Pag are available" parameterizedStepValue:"Ensure Login Pag are available"}}
+01-07-2021 23:33:12.866 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login Page are available"}
+01-07-2021 23:33:12.867 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login Page are available" parameterizedStepValue:"Ensure Login Page are available"}}
+01-07-2021 23:33:16.889 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login Page are d"}
+01-07-2021 23:33:16.889 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login Page are d" parameterizedStepValue:"Ensure Login Page are d"}}
+01-07-2021 23:33:16.899 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+01-07-2021 23:33:16.900 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Dillard's homepage" parameterizedStepValue:"Open the Dillard's homepage"} allSteps:{stepValue:"Go to Dillards Get Started Page" parameterizedStepValue:"Go to Dillards Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+01-07-2021 23:33:16.900 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+01-07-2021 23:33:16.900 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+01-07-2021 23:33:16.902 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+01-07-2021 23:33:16.902 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"} allSteps:{stepValue:"Open the Dillard's homepage" parameterizedStepValue:"Open the Dillard's homepage"} allSteps:{stepValue:"Go to Dillards Get Started Page" parameterizedStepValue:"Go to Dillards Get Started Page"}}
+01-07-2021 23:33:16.902 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+01-07-2021 23:33:16.902 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+01-07-2021 23:33:17.429 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login Page are di"}
+01-07-2021 23:33:17.429 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login Page are di" parameterizedStepValue:"Ensure Login Page are di"}}
+01-07-2021 23:33:17.662 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login Page are dis"}
+01-07-2021 23:33:17.662 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login Page are dis" parameterizedStepValue:"Ensure Login Page are dis"}}
+01-07-2021 23:33:18.131 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login Page are disp"}
+01-07-2021 23:33:18.132 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login Page are disp" parameterizedStepValue:"Ensure Login Page are disp"}}
+01-07-2021 23:33:18.524 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login Page are displ"}
+01-07-2021 23:33:18.524 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login Page are displ" parameterizedStepValue:"Ensure Login Page are displ"}}
+01-07-2021 23:33:18.725 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login Page are displa"}
+01-07-2021 23:33:18.725 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login Page are displa" parameterizedStepValue:"Ensure Login Page are displa"}}
+01-07-2021 23:33:19.157 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login Page are display"}
+01-07-2021 23:33:19.157 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login Page are display" parameterizedStepValue:"Ensure Login Page are display"}}
+01-07-2021 23:33:19.368 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login Page are displaye"}
+01-07-2021 23:33:19.368 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login Page are displaye" parameterizedStepValue:"Ensure Login Page are displaye"}}
+01-07-2021 23:33:19.953 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login Page are displayed"}
+01-07-2021 23:33:19.953 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login Page are displayed" parameterizedStepValue:"Ensure Login Page are displayed"}}
+01-07-2021 23:33:20.711 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login Page are displayed."}
+01-07-2021 23:33:20.711 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login Page are displayed." parameterizedStepValue:"Ensure Login Page are displayed."}}
+01-07-2021 23:33:20.725 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+01-07-2021 23:33:20.725 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Dillard's homepage" parameterizedStepValue:"Open the Dillard's homepage"} allSteps:{stepValue:"Go to Dillards Get Started Page" parameterizedStepValue:"Go to Dillards Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+01-07-2021 23:33:20.725 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+01-07-2021 23:33:20.726 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+01-07-2021 23:33:20.727 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+01-07-2021 23:33:20.727 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Dillard's homepage" parameterizedStepValue:"Open the Dillard's homepage"} allSteps:{stepValue:"Go to Dillards Get Started Page" parameterizedStepValue:"Go to Dillards Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+01-07-2021 23:33:20.728 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+01-07-2021 23:33:20.728 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+01-07-2021 23:33:33.982 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure instructions are available"}
+01-07-2021 23:33:33.983 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure instructions are available" parameterizedStepValue:"Ensure instructions are available"}}
+01-07-2021 23:33:33.992 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure instructions are available"}
+01-07-2021 23:33:33.993 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure instructions are available" parameterizedStepValue:"Ensure instructions are available"}}
+01-07-2021 23:33:36.334 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Logininstructions are available"}
+01-07-2021 23:33:36.336 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Logininstructions are available" parameterizedStepValue:"Ensure Logininstructions are available"}}
+01-07-2021 23:33:43.209 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login Page is available"}
+01-07-2021 23:33:43.210 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login Page is available" parameterizedStepValue:"Ensure Login Page is available"}}
+01-07-2021 23:33:47.136 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login Page is displayed"}
+01-07-2021 23:33:47.138 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login Page is displayed" parameterizedStepValue:"Ensure Login Page is displayed"}}
+01-07-2021 23:34:58.619 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login Page ar displayed."}
+01-07-2021 23:34:58.621 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login Page ar displayed." parameterizedStepValue:"Ensure Login Page ar displayed."}}
+01-07-2021 23:34:58.951 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login Page a displayed."}
+01-07-2021 23:34:58.951 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login Page a displayed." parameterizedStepValue:"Ensure Login Page a displayed."}}
+01-07-2021 23:34:59.231 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login Page  displayed."}
+01-07-2021 23:34:59.231 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login Page  displayed." parameterizedStepValue:"Ensure Login Page  displayed."}}
+01-07-2021 23:34:59.982 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure Login Page is displayed."}
+01-07-2021 23:34:59.982 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure Login Page is displayed." parameterizedStepValue:"Ensure Login Page is displayed."}}
+01-07-2021 23:35:00.218 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+01-07-2021 23:35:00.218 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Go to Dillards Get Started Page" parameterizedStepValue:"Go to Dillards Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"} allSteps:{stepValue:"Open the Dillard's homepage" parameterizedStepValue:"Open the Dillard's homepage"}}
+01-07-2021 23:35:00.220 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+01-07-2021 23:35:00.221 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+01-07-2021 23:36:47.517 [Gauge] [INFO] Spec file added / modified: /Users/agamselbi/Documents/IntelijProjects/Gauge/specs/LoginPage.spec
+01-07-2021 23:46:55.568 [Gauge] [INFO] Spec file added / modified: /Users/agamselbi/Documents/IntelijProjects/Gauge/specs/LoginPage.spec

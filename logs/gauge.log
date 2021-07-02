@@ -1,0 +1,450 @@
+01-07-2021 20:03:20.226 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/agamselbi/Documents/IntelijProjects/Gauge/.gauge/screenshots
+01-07-2021 20:03:20.231 [Gauge] [DEBUG] Plugin java is already installed.
+01-07-2021 20:03:20.231 [Gauge] [INFO] Compatible version of plugin html-report not found. Installing plugin html-report...
+01-07-2021 20:03:20.231 [Gauge] [DEBUG] Gathering metadata for html-report
+01-07-2021 20:03:20.232 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=java&o=darwin&a=amd64
+01-07-2021 20:03:21.257 [Gauge] [DEBUG] Downloading https://github.com/getgauge/html-report/releases/download/v4.0.12/html-report-4.0.12-darwin.x86_64.zip
+01-07-2021 20:03:23.610 [Gauge] [DEBUG] Installing plugin html-report 4.0.12
+01-07-2021 20:03:23.689 [Gauge] [INFO] Successfully installed plugin 'html-report' version 4.0.12
+01-07-2021 20:03:23.691 [Gauge] [INFO] Installing required plugins.
+01-07-2021 20:03:23.691 [Gauge] [DEBUG] Installing plugin 'screenshot'
+01-07-2021 20:03:23.691 [Gauge] [DEBUG] Gathering metadata for screenshot
+01-07-2021 20:03:23.692 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java&o=darwin&a=amd64
+01-07-2021 20:03:23.815 [Gauge] [DEBUG] Downloading https://github.com/getgauge/gauge_screenshot/releases/download/v0.0.1/screenshot-0.0.1-darwin.x86_64.zip
+01-07-2021 20:03:24.015 [Gauge] [DEBUG] Checking updates...
+01-07-2021 20:03:24.017 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java&o=darwin&a=amd64
+01-07-2021 20:03:24.138 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java&o=darwin&a=amd64
+01-07-2021 20:03:24.347 [Gauge] [DEBUG] Installing plugin screenshot 0.0.1
+01-07-2021 20:03:24.352 [Gauge] [INFO] Successfully installed plugin 'screenshot' version 0.0.1
+01-07-2021 20:03:24.355 [Gauge] [DEBUG] Parsing started.
+01-07-2021 20:03:24.355 [Gauge] [DEBUG] Started concepts parsing.
+01-07-2021 20:03:24.357 [Gauge] [DEBUG] 0 concepts parsing completed.
+01-07-2021 20:03:24.357 [Gauge] [DEBUG] Started specifications parsing.
+01-07-2021 20:03:24.357 [Gauge] [DEBUG] 1 specifications parsing completed.
+01-07-2021 20:03:24.360 [Gauge] [DEBUG] Parsing completed.
+01-07-2021 20:03:24.371 [java] [DEBUG] ***** Printing Properties/Env Values *****
+01-07-2021 20:03:24.371 [java] [DEBUG] PATH: /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/agamselbi/.gauge/plugins/screenshot/0.0.1
+01-07-2021 20:03:24.371 [java] [DEBUG] JAVA_HOME: /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home
+01-07-2021 20:03:24.371 [java] [DEBUG] gauge_project_root: 
+01-07-2021 20:03:24.371 [java] [DEBUG] gauge_parallel_streams_count: 
+01-07-2021 20:03:24.371 [java] [DEBUG] gauge_reports_dir: reports
+01-07-2021 20:03:24.371 [java] [DEBUG] overwrite_reports: true
+01-07-2021 20:03:24.371 [java] [DEBUG] logs_directory: logs
+01-07-2021 20:03:24.371 [java] [DEBUG] enable_multithreading: false
+01-07-2021 20:03:24.371 [java] [DEBUG] gauge_specs_dir: specs
+01-07-2021 20:03:24.371 [java] [DEBUG] csv_delimiter: ,
+01-07-2021 20:03:24.371 [java] [DEBUG] gauge_java_home: 
+01-07-2021 20:03:24.371 [java] [DEBUG] gauge_custom_build_path: 
+01-07-2021 20:03:24.371 [java] [DEBUG] gauge_additional_libs: libs/*
+01-07-2021 20:03:24.371 [java] [DEBUG] gauge_jvm_args: 
+01-07-2021 20:03:24.371 [java] [DEBUG] gauge_custom_compile_dir: 
+01-07-2021 20:03:24.371 [java] [DEBUG] gauge_clear_state_level: scenario
+01-07-2021 20:03:24.371 [java] [DEBUG] ***** END *****
+01-07-2021 20:03:30.744 [java] [DEBUG] classpath set to /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/tools.jar:/Users/agamselbi/Documents/IntelijProjects/Gauge/target/test-classes:/Users/agamselbi/.m2/repository/com/thoughtworks/gauge/gauge-java/0.7.15/gauge-java-0.7.15.jar:/Users/agamselbi/.m2/repository/com/github/javaparser/javaparser-core/3.16.3/javaparser-core-3.16.3.jar:/Users/agamselbi/.m2/repository/commons-io/commons-io/2.8.0/commons-io-2.8.0.jar:/Users/agamselbi/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/Users/agamselbi/.m2/repository/org/json/json/20210307/json-20210307.jar:/Users/agamselbi/.m2/repository/com/google/protobuf/protobuf-java/3.15.8/protobuf-java-3.15.8.jar:/Users/agamselbi/.m2/repository/com/google/guava/guava/30.1.1-jre/guava-30.1.1-jre.jar:/Users/agamselbi/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/agamselbi/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/agamselbi/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/agamselbi/.m2/repository/org/checkerframework/checker-qual/3.8.0/checker-qual-3.8.0.jar:/Users/agamselbi/.m2/repository/com/google/errorprone/error_prone_annotations/2.5.1/error_prone_annotations-2.5.1.jar:/Users/agamselbi/.m2/repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-netty-shaded/1.37.0/grpc-netty-shaded-1.37.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-core/1.37.0/grpc-core-1.37.0.jar:/Users/agamselbi/.m2/repository/com/google/android/annotations/4.1.1.4/annotations-4.1.1.4.jar:/Users/agamselbi/.m2/repository/io/perfmark/perfmark-api/0.23.0/perfmark-api-0.23.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-protobuf/1.37.0/grpc-protobuf-1.37.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-api/1.37.0/grpc-api-1.37.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-context/1.37.0/grpc-context-1.37.0.jar:/Users/agamselbi/.m2/repository/com/google/api/grpc/proto-google-common-protos/2.0.1/proto-google-common-protos-2.0.1.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-protobuf-lite/1.37.0/grpc-protobuf-lite-1.37.0.jar:/Users/agamselbi/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.19/animal-sniffer-annotations-1.19.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-stub/1.37.0/grpc-stub-1.37.0.jar:/Users/agamselbi/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar:/Users/agamselbi/.m2/repository/org/assertj/assertj-core/3.10.0/assertj-core-3.10.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-java/3.12.0/selenium-java-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-api/3.12.0/selenium-api-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.12.0/selenium-chrome-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.12.0/selenium-edge-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.12.0/selenium-firefox-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.12.0/selenium-ie-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.12.0/selenium-opera-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.12.0/selenium-remote-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.12.0/selenium-safari-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-support/3.12.0/selenium-support-3.12.0.jar:/Users/agamselbi/.m2/repository/net/bytebuddy/byte-buddy/1.8.3/byte-buddy-1.8.3.jar:/Users/agamselbi/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/agamselbi/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/agamselbi/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/agamselbi/.m2/repository/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar:/Users/agamselbi/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/agamselbi/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/agamselbi/.m2/repository/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1.jar:/Users/agamselbi/.m2/repository/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar:/Users/agamselbi/.m2/repository/io/github/bonigarcia/webdrivermanager/3.7.1/webdrivermanager-3.7.1.jar:/Users/agamselbi/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar:/Users/agamselbi/.m2/repository/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar:/Users/agamselbi/.m2/repository/org/rauschig/jarchivelib/1.0.0/jarchivelib-1.0.0.jar:/Users/agamselbi/.m2/repository/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar:/Users/agamselbi/.m2/repository/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar:/Users/agamselbi/.m2/repository/org/reflections/reflections/0.9.10/reflections-0.9.10.jar:/Users/agamselbi/.m2/repository/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA.jar:/Users/agamselbi/.m2/repository/com/google/code/findbugs/annotations/2.0.1/annotations-2.0.1.jar
+01-07-2021 20:03:30.801 [java] [DEBUG] found java executable in /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/bin/java
+01-07-2021 20:03:30.801 [java] [DEBUG] running - /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/bin/java [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+01-07-2021 20:03:30.801 [java] [DEBUG] stdout/stderr is logged to logs/27189-java.out
+01-07-2021 20:03:31.042 [java] [DEBUG] multithreading is set to false
+01-07-2021 20:03:31.534 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+01-07-2021 20:03:31.663 [java] [ERROR] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+01-07-2021 20:03:31.663 [java] [ERROR] SLF4J: Defaulting to no-operation (NOP) logger implementation
+01-07-2021 20:03:31.663 [java] [ERROR] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+01-07-2021 20:03:32.100 [java] [DEBUG] gauge-java took 1058milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+01-07-2021 20:03:32.100 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1058
+01-07-2021 20:03:32.101 [java] [DEBUG] starting gRPC server...
+01-07-2021 20:03:32.453 [java] [DEBUG] started gRPC server on port 56052
+01-07-2021 20:03:32.453 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56052
+01-07-2021 20:03:32.693 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56052
+01-07-2021 20:03:32.693 [Gauge] [DEBUG] Validation started.
+01-07-2021 20:03:37.049 [java] [DEBUG] Scanning packages for steps
+01-07-2021 20:03:37.069 [java] [DEBUG] Comparing 'org.example.StepImplementation.ensureInstallationInstructionsAreAvailable' and 'org.example.StepImplementation.ensureInstallationInstructionsAreAvailable'
+01-07-2021 20:03:37.069 [java] [DEBUG] Found Ensure installation instructions are available in current project scope.
+01-07-2021 20:03:37.070 [java] [DEBUG] Comparing 'org.example.StepImplementation.gotoGetStartedPage' and 'org.example.StepImplementation.gotoGetStartedPage'
+01-07-2021 20:03:37.070 [java] [DEBUG] Found Go to Gauge Get Started Page in current project scope.
+01-07-2021 20:03:37.070 [java] [DEBUG] Comparing 'org.example.StepImplementation.implementation1' and 'org.example.StepImplementation.implementation1'
+01-07-2021 20:03:37.070 [java] [DEBUG] Found Open the Gauge homepage in current project scope.
+01-07-2021 20:03:37.070 [java] [DEBUG] Scanning packages for hooks
+01-07-2021 20:03:37.079 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+01-07-2021 20:03:37.080 [java] [DEBUG] 	Open the Gauge homepage : public void implementation1()
+01-07-2021 20:03:37.080 [java] [DEBUG] 	Go to Gauge Get Started Page : public void gotoGetStartedPage() throws InterruptedException
+01-07-2021 20:03:37.080 [java] [DEBUG] 	Ensure installation instructions are available : public void ensureInstallationInstructionsAreAvailable() throws InterruptedException
+01-07-2021 20:03:39.983 [Gauge] [DEBUG] Validation completed.
+01-07-2021 20:03:39.987 [Gauge] [DEBUG] Run started
+01-07-2021 20:03:39.989 [Gauge] [DEBUG] Starting Html Report plugin
+01-07-2021 20:03:40.274 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56058
+01-07-2021 20:03:40.275 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56058
+01-07-2021 20:03:40.276 [Gauge] [DEBUG] Initialising suite data store.
+01-07-2021 20:03:44.140 [java] [ERROR] Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 38888
+01-07-2021 20:03:44.141 [java] [ERROR] Only local connections are allowed.
+01-07-2021 20:03:44.141 [java] [ERROR] Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+01-07-2021 20:03:44.146 [java] [ERROR] ChromeDriver was started successfully.
+01-07-2021 20:03:47.011 [java] [ERROR] Jul 01, 2021 8:03:46 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+01-07-2021 20:03:47.011 [java] [ERROR] INFO: Detected dialect: W3C
+01-07-2021 20:03:47.105 [java] [DEBUG] Executing 'Open the Gauge homepage' using 'class org.example.StepImplementation.implementation1
+01-07-2021 20:03:48.959 [java] [DEBUG] Executing 'Go to Gauge Get Started Page' using 'class org.example.StepImplementation.gotoGetStartedPage
+01-07-2021 20:03:50.042 [java] [DEBUG] Executing 'Ensure installation instructions are available' using 'class org.example.StepImplementation.ensureInstallationInstructionsAreAvailable
+01-07-2021 20:03:50.341 [html-report] [DEBUG] Transformed SuiteResult to report structure
+01-07-2021 20:03:50.490 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+01-07-2021 20:03:50.491 [html-report] [INFO] Successfully generated html-report to => /Users/agamselbi/Documents/IntelijProjects/Gauge/reports/html-report/index.html
+01-07-2021 20:03:50.491 [html-report] [DEBUG] Done generating HTML report using theme from /Users/agamselbi/.gauge/plugins/html-report/4.0.12/themes/default
+01-07-2021 20:03:50.510 [java] [DEBUG] Killing Java runner...
+01-07-2021 20:03:50.513 [java] [DEBUG] Stopping execution pool...
+01-07-2021 20:03:50.514 [java] [DEBUG] Shutting down grpc server...
+01-07-2021 20:03:50.544 [java] [DEBUG] Runner killed gracefully.
+01-07-2021 20:03:51.039 [Gauge] [DEBUG] Runner with PID:27189 has exited
+01-07-2021 20:03:51.039 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+01-07-2021 20:03:51.039 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+01-07-2021 20:03:51.041 [Gauge] [INFO] 
+Total time taken: 10.349s
+01-07-2021 20:38:11.564 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/agamselbi/Documents/IntelijProjects/Gauge/.gauge/screenshots
+01-07-2021 20:38:11.569 [Gauge] [DEBUG] Plugin java is already installed.
+01-07-2021 20:38:11.570 [Gauge] [DEBUG] Plugin html-report is already installed.
+01-07-2021 20:38:11.571 [Gauge] [DEBUG] Parsing started.
+01-07-2021 20:38:11.571 [Gauge] [DEBUG] Started concepts parsing.
+01-07-2021 20:38:11.573 [Gauge] [DEBUG] 0 concepts parsing completed.
+01-07-2021 20:38:11.573 [Gauge] [DEBUG] Started specifications parsing.
+01-07-2021 20:38:11.574 [Gauge] [DEBUG] 1 specifications parsing completed.
+01-07-2021 20:38:11.574 [Gauge] [DEBUG] Parsing completed.
+01-07-2021 20:38:11.731 [java] [DEBUG] ***** Printing Properties/Env Values *****
+01-07-2021 20:38:11.731 [java] [DEBUG] PATH: /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/agamselbi/.gauge/plugins/screenshot/0.0.1
+01-07-2021 20:38:11.731 [java] [DEBUG] JAVA_HOME: /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home
+01-07-2021 20:38:11.731 [java] [DEBUG] gauge_project_root: 
+01-07-2021 20:38:11.731 [java] [DEBUG] gauge_parallel_streams_count: 
+01-07-2021 20:38:11.731 [java] [DEBUG] gauge_reports_dir: reports
+01-07-2021 20:38:11.731 [java] [DEBUG] overwrite_reports: true
+01-07-2021 20:38:11.732 [java] [DEBUG] logs_directory: logs
+01-07-2021 20:38:11.732 [java] [DEBUG] enable_multithreading: false
+01-07-2021 20:38:11.732 [java] [DEBUG] gauge_specs_dir: specs
+01-07-2021 20:38:11.732 [java] [DEBUG] csv_delimiter: ,
+01-07-2021 20:38:11.732 [java] [DEBUG] gauge_java_home: 
+01-07-2021 20:38:11.732 [java] [DEBUG] gauge_custom_build_path: 
+01-07-2021 20:38:11.732 [java] [DEBUG] gauge_additional_libs: libs/*
+01-07-2021 20:38:11.732 [java] [DEBUG] gauge_jvm_args: 
+01-07-2021 20:38:11.732 [java] [DEBUG] gauge_custom_compile_dir: 
+01-07-2021 20:38:11.732 [java] [DEBUG] gauge_clear_state_level: scenario
+01-07-2021 20:38:11.732 [java] [DEBUG] ***** END *****
+01-07-2021 20:38:12.234 [Gauge] [DEBUG] Checking updates...
+01-07-2021 20:38:12.235 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+01-07-2021 20:38:12.558 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+01-07-2021 20:38:12.678 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+01-07-2021 20:38:19.308 [java] [DEBUG] classpath set to /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/tools.jar:/Users/agamselbi/Documents/IntelijProjects/Gauge/target/test-classes:/Users/agamselbi/.m2/repository/com/thoughtworks/gauge/gauge-java/0.7.15/gauge-java-0.7.15.jar:/Users/agamselbi/.m2/repository/com/github/javaparser/javaparser-core/3.16.3/javaparser-core-3.16.3.jar:/Users/agamselbi/.m2/repository/commons-io/commons-io/2.8.0/commons-io-2.8.0.jar:/Users/agamselbi/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/Users/agamselbi/.m2/repository/org/json/json/20210307/json-20210307.jar:/Users/agamselbi/.m2/repository/com/google/protobuf/protobuf-java/3.15.8/protobuf-java-3.15.8.jar:/Users/agamselbi/.m2/repository/com/google/guava/guava/30.1.1-jre/guava-30.1.1-jre.jar:/Users/agamselbi/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/agamselbi/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/agamselbi/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/agamselbi/.m2/repository/org/checkerframework/checker-qual/3.8.0/checker-qual-3.8.0.jar:/Users/agamselbi/.m2/repository/com/google/errorprone/error_prone_annotations/2.5.1/error_prone_annotations-2.5.1.jar:/Users/agamselbi/.m2/repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-netty-shaded/1.37.0/grpc-netty-shaded-1.37.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-core/1.37.0/grpc-core-1.37.0.jar:/Users/agamselbi/.m2/repository/com/google/android/annotations/4.1.1.4/annotations-4.1.1.4.jar:/Users/agamselbi/.m2/repository/io/perfmark/perfmark-api/0.23.0/perfmark-api-0.23.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-protobuf/1.37.0/grpc-protobuf-1.37.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-api/1.37.0/grpc-api-1.37.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-context/1.37.0/grpc-context-1.37.0.jar:/Users/agamselbi/.m2/repository/com/google/api/grpc/proto-google-common-protos/2.0.1/proto-google-common-protos-2.0.1.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-protobuf-lite/1.37.0/grpc-protobuf-lite-1.37.0.jar:/Users/agamselbi/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.19/animal-sniffer-annotations-1.19.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-stub/1.37.0/grpc-stub-1.37.0.jar:/Users/agamselbi/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar:/Users/agamselbi/.m2/repository/org/assertj/assertj-core/3.10.0/assertj-core-3.10.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-java/3.12.0/selenium-java-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-api/3.12.0/selenium-api-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.12.0/selenium-chrome-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.12.0/selenium-edge-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.12.0/selenium-firefox-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.12.0/selenium-ie-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.12.0/selenium-opera-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.12.0/selenium-remote-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.12.0/selenium-safari-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-support/3.12.0/selenium-support-3.12.0.jar:/Users/agamselbi/.m2/repository/net/bytebuddy/byte-buddy/1.8.3/byte-buddy-1.8.3.jar:/Users/agamselbi/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/agamselbi/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/agamselbi/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/agamselbi/.m2/repository/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar:/Users/agamselbi/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/agamselbi/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/agamselbi/.m2/repository/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1.jar:/Users/agamselbi/.m2/repository/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar:/Users/agamselbi/.m2/repository/io/github/bonigarcia/webdrivermanager/3.7.1/webdrivermanager-3.7.1.jar:/Users/agamselbi/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar:/Users/agamselbi/.m2/repository/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar:/Users/agamselbi/.m2/repository/org/rauschig/jarchivelib/1.0.0/jarchivelib-1.0.0.jar:/Users/agamselbi/.m2/repository/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar:/Users/agamselbi/.m2/repository/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar:/Users/agamselbi/.m2/repository/org/reflections/reflections/0.9.10/reflections-0.9.10.jar:/Users/agamselbi/.m2/repository/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA.jar:/Users/agamselbi/.m2/repository/com/google/code/findbugs/annotations/2.0.1/annotations-2.0.1.jar
+01-07-2021 20:38:19.371 [java] [DEBUG] found java executable in /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/bin/java
+01-07-2021 20:38:19.371 [java] [DEBUG] running - /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/bin/java [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+01-07-2021 20:38:19.371 [java] [DEBUG] stdout/stderr is logged to logs/28111-java.out
+01-07-2021 20:38:19.645 [java] [DEBUG] multithreading is set to false
+01-07-2021 20:38:20.131 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+01-07-2021 20:38:20.280 [java] [ERROR] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+01-07-2021 20:38:20.281 [java] [ERROR] SLF4J: Defaulting to no-operation (NOP) logger implementation
+01-07-2021 20:38:20.281 [java] [ERROR] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+01-07-2021 20:38:20.703 [java] [DEBUG] gauge-java took 1057milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+01-07-2021 20:38:20.703 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1057
+01-07-2021 20:38:20.704 [java] [DEBUG] starting gRPC server...
+01-07-2021 20:38:20.935 [java] [DEBUG] started gRPC server on port 56354
+01-07-2021 20:38:20.936 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56354
+01-07-2021 20:38:21.188 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56354
+01-07-2021 20:38:21.188 [Gauge] [DEBUG] Validation started.
+01-07-2021 20:38:25.282 [java] [DEBUG] Scanning packages for steps
+01-07-2021 20:38:25.426 [java] [DEBUG] Comparing 'org.example.StepImplementation.ensureInstallationInstructionsAreAvailable' and 'org.example.StepImplementation.ensureInstallationInstructionsAreAvailable'
+01-07-2021 20:38:25.427 [java] [DEBUG] Found Ensure installation instructions are available in current project scope.
+01-07-2021 20:38:25.427 [java] [DEBUG] Comparing 'org.example.StepImplementation.gotoGetStartedPage' and 'org.example.StepImplementation.gotoGetStartedPage'
+01-07-2021 20:38:25.427 [java] [DEBUG] Found Go to Gauge Get Started Page in current project scope.
+01-07-2021 20:38:25.427 [java] [DEBUG] Comparing 'org.example.StepImplementation.implementation1' and 'org.example.StepImplementation.implementation1'
+01-07-2021 20:38:25.427 [java] [DEBUG] Found Open the Gauge homepage in current project scope.
+01-07-2021 20:38:25.428 [java] [DEBUG] Scanning packages for hooks
+01-07-2021 20:38:25.436 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+01-07-2021 20:38:25.436 [java] [DEBUG] 	Open the Gauge homepage : public void implementation1()
+01-07-2021 20:38:25.437 [java] [DEBUG] 	Go to Gauge Get Started Page : public void gotoGetStartedPage() throws InterruptedException
+01-07-2021 20:38:25.437 [java] [DEBUG] 	Ensure installation instructions are available : public void ensureInstallationInstructionsAreAvailable() throws InterruptedException
+01-07-2021 20:38:28.351 [Gauge] [DEBUG] Validation completed.
+01-07-2021 20:38:28.352 [Gauge] [DEBUG] Run started
+01-07-2021 20:38:28.354 [Gauge] [DEBUG] Starting Html Report plugin
+01-07-2021 20:38:28.763 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56359
+01-07-2021 20:38:28.765 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56359
+01-07-2021 20:38:28.766 [Gauge] [DEBUG] Initialising suite data store.
+01-07-2021 20:38:29.973 [java] [ERROR] Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 16877
+01-07-2021 20:38:29.973 [java] [ERROR] Only local connections are allowed.
+01-07-2021 20:38:29.973 [java] [ERROR] Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+01-07-2021 20:38:29.980 [java] [ERROR] ChromeDriver was started successfully.
+01-07-2021 20:38:33.398 [java] [ERROR] Jul 01, 2021 8:38:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+01-07-2021 20:38:33.399 [java] [ERROR] INFO: Detected dialect: W3C
+01-07-2021 20:38:33.484 [java] [DEBUG] Executing 'Open the Gauge homepage' using 'class org.example.StepImplementation.implementation1
+01-07-2021 20:38:35.900 [java] [DEBUG] Executing 'Go to Gauge Get Started Page' using 'class org.example.StepImplementation.gotoGetStartedPage
+01-07-2021 20:38:37.419 [java] [DEBUG] Executing 'Ensure installation instructions are available' using 'class org.example.StepImplementation.ensureInstallationInstructionsAreAvailable
+01-07-2021 20:38:37.706 [html-report] [DEBUG] Transformed SuiteResult to report structure
+01-07-2021 20:38:37.729 [html-report] [INFO] Successfully generated html-report to => /Users/agamselbi/Documents/IntelijProjects/Gauge/reports/html-report/index.html
+01-07-2021 20:38:37.730 [html-report] [DEBUG] Done generating HTML report using theme from /Users/agamselbi/.gauge/plugins/html-report/4.0.12/themes/default
+01-07-2021 20:38:37.730 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+01-07-2021 20:38:37.735 [java] [DEBUG] Killing Java runner...
+01-07-2021 20:38:37.737 [java] [DEBUG] Stopping execution pool...
+01-07-2021 20:38:37.737 [java] [DEBUG] Shutting down grpc server...
+01-07-2021 20:38:37.754 [java] [DEBUG] Runner killed gracefully.
+01-07-2021 20:38:38.264 [Gauge] [DEBUG] Runner with PID:28111 has exited
+01-07-2021 20:38:38.265 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+01-07-2021 20:38:38.265 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+01-07-2021 20:38:38.265 [Gauge] [INFO] 
+Total time taken: 9.352s
+01-07-2021 20:42:55.170 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/agamselbi/Documents/IntelijProjects/Gauge/.gauge/screenshots
+01-07-2021 20:42:55.175 [Gauge] [DEBUG] Plugin java is already installed.
+01-07-2021 20:42:55.177 [Gauge] [DEBUG] Plugin html-report is already installed.
+01-07-2021 20:42:55.177 [Gauge] [DEBUG] Parsing started.
+01-07-2021 20:42:55.177 [Gauge] [DEBUG] Started concepts parsing.
+01-07-2021 20:42:55.179 [Gauge] [DEBUG] 0 concepts parsing completed.
+01-07-2021 20:42:55.179 [Gauge] [DEBUG] Started specifications parsing.
+01-07-2021 20:42:55.182 [Gauge] [DEBUG] 1 specifications parsing completed.
+01-07-2021 20:42:55.182 [Gauge] [DEBUG] Parsing completed.
+01-07-2021 20:42:55.194 [java] [DEBUG] ***** Printing Properties/Env Values *****
+01-07-2021 20:42:55.194 [java] [DEBUG] PATH: /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/agamselbi/.gauge/plugins/screenshot/0.0.1
+01-07-2021 20:42:55.194 [java] [DEBUG] JAVA_HOME: /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home
+01-07-2021 20:42:55.194 [java] [DEBUG] gauge_project_root: 
+01-07-2021 20:42:55.194 [java] [DEBUG] gauge_parallel_streams_count: 
+01-07-2021 20:42:55.194 [java] [DEBUG] gauge_reports_dir: reports
+01-07-2021 20:42:55.194 [java] [DEBUG] overwrite_reports: true
+01-07-2021 20:42:55.194 [java] [DEBUG] logs_directory: logs
+01-07-2021 20:42:55.194 [java] [DEBUG] enable_multithreading: false
+01-07-2021 20:42:55.194 [java] [DEBUG] gauge_specs_dir: specs
+01-07-2021 20:42:55.194 [java] [DEBUG] csv_delimiter: ,
+01-07-2021 20:42:55.194 [java] [DEBUG] gauge_java_home: 
+01-07-2021 20:42:55.194 [java] [DEBUG] gauge_custom_build_path: 
+01-07-2021 20:42:55.194 [java] [DEBUG] gauge_additional_libs: libs/*
+01-07-2021 20:42:55.194 [java] [DEBUG] gauge_jvm_args: 
+01-07-2021 20:42:55.194 [java] [DEBUG] gauge_custom_compile_dir: 
+01-07-2021 20:42:55.194 [java] [DEBUG] gauge_clear_state_level: scenario
+01-07-2021 20:42:55.194 [java] [DEBUG] ***** END *****
+01-07-2021 20:42:55.890 [Gauge] [DEBUG] Checking updates...
+01-07-2021 20:42:55.891 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+01-07-2021 20:42:56.226 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+01-07-2021 20:42:56.346 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+01-07-2021 20:43:02.531 [java] [DEBUG] classpath set to /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/tools.jar:/Users/agamselbi/Documents/IntelijProjects/Gauge/target/test-classes:/Users/agamselbi/.m2/repository/com/thoughtworks/gauge/gauge-java/0.7.15/gauge-java-0.7.15.jar:/Users/agamselbi/.m2/repository/com/github/javaparser/javaparser-core/3.16.3/javaparser-core-3.16.3.jar:/Users/agamselbi/.m2/repository/commons-io/commons-io/2.8.0/commons-io-2.8.0.jar:/Users/agamselbi/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/Users/agamselbi/.m2/repository/org/json/json/20210307/json-20210307.jar:/Users/agamselbi/.m2/repository/com/google/protobuf/protobuf-java/3.15.8/protobuf-java-3.15.8.jar:/Users/agamselbi/.m2/repository/com/google/guava/guava/30.1.1-jre/guava-30.1.1-jre.jar:/Users/agamselbi/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/agamselbi/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/agamselbi/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/agamselbi/.m2/repository/org/checkerframework/checker-qual/3.8.0/checker-qual-3.8.0.jar:/Users/agamselbi/.m2/repository/com/google/errorprone/error_prone_annotations/2.5.1/error_prone_annotations-2.5.1.jar:/Users/agamselbi/.m2/repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-netty-shaded/1.37.0/grpc-netty-shaded-1.37.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-core/1.37.0/grpc-core-1.37.0.jar:/Users/agamselbi/.m2/repository/com/google/android/annotations/4.1.1.4/annotations-4.1.1.4.jar:/Users/agamselbi/.m2/repository/io/perfmark/perfmark-api/0.23.0/perfmark-api-0.23.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-protobuf/1.37.0/grpc-protobuf-1.37.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-api/1.37.0/grpc-api-1.37.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-context/1.37.0/grpc-context-1.37.0.jar:/Users/agamselbi/.m2/repository/com/google/api/grpc/proto-google-common-protos/2.0.1/proto-google-common-protos-2.0.1.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-protobuf-lite/1.37.0/grpc-protobuf-lite-1.37.0.jar:/Users/agamselbi/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.19/animal-sniffer-annotations-1.19.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-stub/1.37.0/grpc-stub-1.37.0.jar:/Users/agamselbi/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar:/Users/agamselbi/.m2/repository/org/assertj/assertj-core/3.10.0/assertj-core-3.10.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-java/3.12.0/selenium-java-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-api/3.12.0/selenium-api-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.12.0/selenium-chrome-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.12.0/selenium-edge-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.12.0/selenium-firefox-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.12.0/selenium-ie-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.12.0/selenium-opera-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.12.0/selenium-remote-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.12.0/selenium-safari-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-support/3.12.0/selenium-support-3.12.0.jar:/Users/agamselbi/.m2/repository/net/bytebuddy/byte-buddy/1.8.3/byte-buddy-1.8.3.jar:/Users/agamselbi/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/agamselbi/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/agamselbi/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/agamselbi/.m2/repository/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar:/Users/agamselbi/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/agamselbi/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/agamselbi/.m2/repository/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1.jar:/Users/agamselbi/.m2/repository/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar:/Users/agamselbi/.m2/repository/io/github/bonigarcia/webdrivermanager/3.7.1/webdrivermanager-3.7.1.jar:/Users/agamselbi/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar:/Users/agamselbi/.m2/repository/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar:/Users/agamselbi/.m2/repository/org/rauschig/jarchivelib/1.0.0/jarchivelib-1.0.0.jar:/Users/agamselbi/.m2/repository/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar:/Users/agamselbi/.m2/repository/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar:/Users/agamselbi/.m2/repository/org/reflections/reflections/0.9.10/reflections-0.9.10.jar:/Users/agamselbi/.m2/repository/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA.jar:/Users/agamselbi/.m2/repository/com/google/code/findbugs/annotations/2.0.1/annotations-2.0.1.jar
+01-07-2021 20:43:02.543 [java] [DEBUG] found java executable in /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/bin/java
+01-07-2021 20:43:02.543 [java] [DEBUG] running - /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/bin/java [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+01-07-2021 20:43:02.543 [java] [DEBUG] stdout/stderr is logged to logs/28272-java.out
+01-07-2021 20:43:02.827 [java] [DEBUG] multithreading is set to false
+01-07-2021 20:43:03.316 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+01-07-2021 20:43:03.428 [java] [ERROR] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+01-07-2021 20:43:03.428 [java] [ERROR] SLF4J: Defaulting to no-operation (NOP) logger implementation
+01-07-2021 20:43:03.428 [java] [ERROR] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+01-07-2021 20:43:03.858 [java] [DEBUG] gauge-java took 1030milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+01-07-2021 20:43:03.858 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1030
+01-07-2021 20:43:03.858 [java] [DEBUG] starting gRPC server...
+01-07-2021 20:43:04.267 [java] [DEBUG] started gRPC server on port 56626
+01-07-2021 20:43:04.267 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56626
+01-07-2021 20:43:04.519 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56626
+01-07-2021 20:43:04.519 [Gauge] [DEBUG] Validation started.
+01-07-2021 20:43:08.584 [java] [DEBUG] Scanning packages for steps
+01-07-2021 20:43:08.769 [java] [DEBUG] Comparing 'LoginImpelementation.implementation1' and 'LoginImpelementation.implementation1'
+01-07-2021 20:43:08.769 [java] [DEBUG] Found Go to Dillards Get Started Page in current project scope.
+01-07-2021 20:43:08.770 [java] [DEBUG] Comparing 'org.example.StepImplementation.ensureInstallationInstructionsAreAvailable' and 'org.example.StepImplementation.ensureInstallationInstructionsAreAvailable'
+01-07-2021 20:43:08.770 [java] [DEBUG] Found Ensure installation instructions are available in current project scope.
+01-07-2021 20:43:08.770 [java] [DEBUG] Comparing 'org.example.StepImplementation.gotoGetStartedPage' and 'org.example.StepImplementation.gotoGetStartedPage'
+01-07-2021 20:43:08.770 [java] [DEBUG] Found Go to Gauge Get Started Page in current project scope.
+01-07-2021 20:43:08.771 [java] [DEBUG] Comparing 'org.example.StepImplementation.implementation1' and 'org.example.StepImplementation.implementation1'
+01-07-2021 20:43:08.771 [java] [DEBUG] Found Open the Gauge homepage in current project scope.
+01-07-2021 20:43:08.771 [java] [DEBUG] Scanning packages for hooks
+01-07-2021 20:43:08.782 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+01-07-2021 20:43:08.782 [java] [DEBUG] 	Open the Gauge homepage : public void implementation1()
+01-07-2021 20:43:08.782 [java] [DEBUG] 	Go to Gauge Get Started Page : public void gotoGetStartedPage() throws InterruptedException
+01-07-2021 20:43:08.782 [java] [DEBUG] 	Go to Dillards Get Started Page : public void implementation1()
+01-07-2021 20:43:08.782 [java] [DEBUG] 	Ensure installation instructions are available : public void ensureInstallationInstructionsAreAvailable() throws InterruptedException
+01-07-2021 20:43:11.880 [Gauge] [DEBUG] Validation completed.
+01-07-2021 20:43:11.882 [Gauge] [DEBUG] Run started
+01-07-2021 20:43:11.884 [Gauge] [DEBUG] Starting Html Report plugin
+01-07-2021 20:43:11.948 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56631
+01-07-2021 20:43:11.951 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56631
+01-07-2021 20:43:11.951 [Gauge] [DEBUG] Initialising suite data store.
+01-07-2021 20:43:12.685 [java] [ERROR] Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 33948
+01-07-2021 20:43:12.685 [java] [ERROR] Only local connections are allowed.
+01-07-2021 20:43:12.685 [java] [ERROR] Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+01-07-2021 20:43:12.711 [java] [ERROR] ChromeDriver was started successfully.
+01-07-2021 20:43:15.264 [java] [ERROR] Jul 01, 2021 8:43:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+01-07-2021 20:43:15.265 [java] [ERROR] INFO: Detected dialect: W3C
+01-07-2021 20:43:15.361 [java] [DEBUG] Executing 'Open the Gauge homepage' using 'class org.example.StepImplementation.implementation1
+01-07-2021 20:43:23.950 [html-report] [DEBUG] Transformed SuiteResult to report structure
+01-07-2021 20:43:24.111 [html-report] [INFO] Successfully generated html-report to => /Users/agamselbi/Documents/IntelijProjects/Gauge/reports/html-report/index.html
+01-07-2021 20:43:24.111 [html-report] [DEBUG] Done generating HTML report using theme from /Users/agamselbi/.gauge/plugins/html-report/4.0.12/themes/default
+01-07-2021 20:43:24.111 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+01-07-2021 20:43:24.115 [java] [DEBUG] Killing Java runner...
+01-07-2021 20:43:24.117 [java] [DEBUG] Stopping execution pool...
+01-07-2021 20:43:24.118 [java] [DEBUG] Shutting down grpc server...
+01-07-2021 20:43:24.134 [java] [DEBUG] Runner killed gracefully.
+01-07-2021 20:43:24.635 [Gauge] [DEBUG] Runner with PID:28272 has exited
+01-07-2021 20:43:24.635 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+01-07-2021 20:43:24.635 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+01-07-2021 20:43:24.635 [Gauge] [INFO] 
+Total time taken: 12.063s
+01-07-2021 22:04:27.963 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/agamselbi/Documents/IntelijProjects/Gauge/.gauge/screenshots
+01-07-2021 22:04:27.967 [Gauge] [DEBUG] Plugin java is already installed.
+01-07-2021 22:04:27.968 [Gauge] [DEBUG] Plugin html-report is already installed.
+01-07-2021 22:04:27.969 [Gauge] [DEBUG] Parsing started.
+01-07-2021 22:04:27.969 [Gauge] [DEBUG] Started concepts parsing.
+01-07-2021 22:04:27.972 [Gauge] [DEBUG] 0 concepts parsing completed.
+01-07-2021 22:04:27.973 [Gauge] [DEBUG] Started specifications parsing.
+01-07-2021 22:04:27.974 [Gauge] [DEBUG] 1 specifications parsing completed.
+01-07-2021 22:04:27.974 [Gauge] [DEBUG] Parsing completed.
+01-07-2021 22:04:27.991 [java] [DEBUG] ***** Printing Properties/Env Values *****
+01-07-2021 22:04:27.991 [java] [DEBUG] PATH: /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/agamselbi/.gauge/plugins/screenshot/0.0.1
+01-07-2021 22:04:27.991 [java] [DEBUG] JAVA_HOME: /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home
+01-07-2021 22:04:27.991 [java] [DEBUG] gauge_project_root: 
+01-07-2021 22:04:27.991 [java] [DEBUG] gauge_parallel_streams_count: 
+01-07-2021 22:04:27.991 [java] [DEBUG] gauge_reports_dir: reports
+01-07-2021 22:04:27.991 [java] [DEBUG] overwrite_reports: true
+01-07-2021 22:04:27.992 [java] [DEBUG] logs_directory: logs
+01-07-2021 22:04:27.992 [java] [DEBUG] enable_multithreading: false
+01-07-2021 22:04:27.992 [java] [DEBUG] gauge_specs_dir: specs
+01-07-2021 22:04:27.992 [java] [DEBUG] csv_delimiter: ,
+01-07-2021 22:04:27.992 [java] [DEBUG] gauge_java_home: 
+01-07-2021 22:04:27.992 [java] [DEBUG] gauge_custom_build_path: 
+01-07-2021 22:04:27.992 [java] [DEBUG] gauge_additional_libs: libs/*
+01-07-2021 22:04:27.992 [java] [DEBUG] gauge_jvm_args: 
+01-07-2021 22:04:27.992 [java] [DEBUG] gauge_custom_compile_dir: 
+01-07-2021 22:04:27.992 [java] [DEBUG] gauge_clear_state_level: scenario
+01-07-2021 22:04:27.992 [java] [DEBUG] ***** END *****
+01-07-2021 22:04:28.837 [Gauge] [DEBUG] Checking updates...
+01-07-2021 22:04:28.838 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+01-07-2021 22:04:29.115 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+01-07-2021 22:04:29.225 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+01-07-2021 22:04:35.879 [java] [DEBUG] classpath set to /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/tools.jar:/Users/agamselbi/Documents/IntelijProjects/Gauge/target/test-classes:/Users/agamselbi/.m2/repository/com/thoughtworks/gauge/gauge-java/0.7.15/gauge-java-0.7.15.jar:/Users/agamselbi/.m2/repository/com/github/javaparser/javaparser-core/3.16.3/javaparser-core-3.16.3.jar:/Users/agamselbi/.m2/repository/commons-io/commons-io/2.8.0/commons-io-2.8.0.jar:/Users/agamselbi/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/Users/agamselbi/.m2/repository/org/json/json/20210307/json-20210307.jar:/Users/agamselbi/.m2/repository/com/google/protobuf/protobuf-java/3.15.8/protobuf-java-3.15.8.jar:/Users/agamselbi/.m2/repository/com/google/guava/guava/30.1.1-jre/guava-30.1.1-jre.jar:/Users/agamselbi/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/agamselbi/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/agamselbi/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/agamselbi/.m2/repository/org/checkerframework/checker-qual/3.8.0/checker-qual-3.8.0.jar:/Users/agamselbi/.m2/repository/com/google/errorprone/error_prone_annotations/2.5.1/error_prone_annotations-2.5.1.jar:/Users/agamselbi/.m2/repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-netty-shaded/1.37.0/grpc-netty-shaded-1.37.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-core/1.37.0/grpc-core-1.37.0.jar:/Users/agamselbi/.m2/repository/com/google/android/annotations/4.1.1.4/annotations-4.1.1.4.jar:/Users/agamselbi/.m2/repository/io/perfmark/perfmark-api/0.23.0/perfmark-api-0.23.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-protobuf/1.37.0/grpc-protobuf-1.37.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-api/1.37.0/grpc-api-1.37.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-context/1.37.0/grpc-context-1.37.0.jar:/Users/agamselbi/.m2/repository/com/google/api/grpc/proto-google-common-protos/2.0.1/proto-google-common-protos-2.0.1.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-protobuf-lite/1.37.0/grpc-protobuf-lite-1.37.0.jar:/Users/agamselbi/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.19/animal-sniffer-annotations-1.19.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-stub/1.37.0/grpc-stub-1.37.0.jar:/Users/agamselbi/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar:/Users/agamselbi/.m2/repository/org/assertj/assertj-core/3.10.0/assertj-core-3.10.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-java/3.12.0/selenium-java-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-api/3.12.0/selenium-api-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.12.0/selenium-chrome-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.12.0/selenium-edge-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.12.0/selenium-firefox-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.12.0/selenium-ie-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.12.0/selenium-opera-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.12.0/selenium-remote-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.12.0/selenium-safari-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-support/3.12.0/selenium-support-3.12.0.jar:/Users/agamselbi/.m2/repository/net/bytebuddy/byte-buddy/1.8.3/byte-buddy-1.8.3.jar:/Users/agamselbi/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/agamselbi/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/agamselbi/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/agamselbi/.m2/repository/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar:/Users/agamselbi/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/agamselbi/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/agamselbi/.m2/repository/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1.jar:/Users/agamselbi/.m2/repository/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar:/Users/agamselbi/.m2/repository/io/github/bonigarcia/webdrivermanager/3.7.1/webdrivermanager-3.7.1.jar:/Users/agamselbi/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar:/Users/agamselbi/.m2/repository/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar:/Users/agamselbi/.m2/repository/org/rauschig/jarchivelib/1.0.0/jarchivelib-1.0.0.jar:/Users/agamselbi/.m2/repository/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar:/Users/agamselbi/.m2/repository/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar:/Users/agamselbi/.m2/repository/org/reflections/reflections/0.9.10/reflections-0.9.10.jar:/Users/agamselbi/.m2/repository/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA.jar:/Users/agamselbi/.m2/repository/com/google/code/findbugs/annotations/2.0.1/annotations-2.0.1.jar
+01-07-2021 22:04:35.946 [java] [DEBUG] found java executable in /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/bin/java
+01-07-2021 22:04:35.946 [java] [DEBUG] running - /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/bin/java [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+01-07-2021 22:04:35.946 [java] [DEBUG] stdout/stderr is logged to logs/29749-java.out
+01-07-2021 22:04:36.268 [java] [DEBUG] multithreading is set to false
+01-07-2021 22:04:36.787 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+01-07-2021 22:04:36.910 [java] [ERROR] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+01-07-2021 22:04:36.910 [java] [ERROR] SLF4J: Defaulting to no-operation (NOP) logger implementation
+01-07-2021 22:04:36.910 [java] [ERROR] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+01-07-2021 22:04:37.462 [java] [DEBUG] gauge-java took 1192milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+01-07-2021 22:04:37.467 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1192
+01-07-2021 22:04:37.467 [java] [DEBUG] starting gRPC server...
+01-07-2021 22:04:37.918 [java] [DEBUG] started gRPC server on port 63768
+01-07-2021 22:04:37.918 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63768
+01-07-2021 22:04:38.194 [Gauge] [DEBUG] Successfully made the connection with runner with port: 63768
+01-07-2021 22:04:38.194 [Gauge] [DEBUG] Validation started.
+01-07-2021 22:04:43.366 [java] [DEBUG] Scanning packages for steps
+01-07-2021 22:04:43.386 [java] [DEBUG] Comparing 'LoginImpelementation.implementation1' and 'LoginImpelementation.implementation1'
+01-07-2021 22:04:43.387 [java] [DEBUG] Found Go to Dillards Get Started Page in current project scope.
+01-07-2021 22:04:43.388 [java] [DEBUG] Comparing 'org.example.StepImplementation.ensureInstallationInstructionsAreAvailable' and 'org.example.StepImplementation.ensureInstallationInstructionsAreAvailable'
+01-07-2021 22:04:43.388 [java] [DEBUG] Found Ensure installation instructions are available in current project scope.
+01-07-2021 22:04:43.389 [java] [DEBUG] Comparing 'org.example.StepImplementation.gotoGetStartedPage' and 'org.example.StepImplementation.gotoGetStartedPage'
+01-07-2021 22:04:43.389 [java] [DEBUG] Found Go to Gauge Get Started Page in current project scope.
+01-07-2021 22:04:43.389 [java] [DEBUG] Comparing 'org.example.StepImplementation.implementation1' and 'org.example.StepImplementation.implementation1'
+01-07-2021 22:04:43.390 [java] [DEBUG] Found Open the Dillard's homepage in current project scope.
+01-07-2021 22:04:43.390 [java] [DEBUG] Scanning packages for hooks
+01-07-2021 22:04:43.399 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+01-07-2021 22:04:43.399 [java] [DEBUG] 	Open the Dillard's homepage : public void implementation1()
+01-07-2021 22:04:43.400 [java] [DEBUG] 	Go to Gauge Get Started Page : public void gotoGetStartedPage() throws InterruptedException
+01-07-2021 22:04:43.400 [java] [DEBUG] 	Go to Dillards Get Started Page : public void implementation1()
+01-07-2021 22:04:43.400 [java] [DEBUG] 	Ensure installation instructions are available : public void ensureInstallationInstructionsAreAvailable() throws InterruptedException
+01-07-2021 22:04:46.832 [Gauge] [DEBUG] Validation completed.
+01-07-2021 22:04:46.833 [Gauge] [DEBUG] Run started
+01-07-2021 22:04:46.836 [Gauge] [DEBUG] Starting Html Report plugin
+01-07-2021 22:04:47.257 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63791
+01-07-2021 22:04:47.259 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 63791
+01-07-2021 22:04:47.259 [Gauge] [DEBUG] Initialising suite data store.
+01-07-2021 22:04:48.346 [java] [ERROR] Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 7803
+01-07-2021 22:04:48.346 [java] [ERROR] Only local connections are allowed.
+01-07-2021 22:04:48.346 [java] [ERROR] Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+01-07-2021 22:04:48.370 [java] [ERROR] ChromeDriver was started successfully.
+01-07-2021 22:04:51.335 [java] [ERROR] Jul 01, 2021 10:04:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+01-07-2021 22:04:51.336 [java] [ERROR] INFO: Detected dialect: W3C
+01-07-2021 22:04:51.435 [java] [DEBUG] Executing 'Open the Dillard's homepage' using 'class org.example.StepImplementation.implementation1
+01-07-2021 22:04:57.234 [java] [DEBUG] Executing 'Go to Dillards Get Started Page' using 'class LoginImpelementation.implementation1
+01-07-2021 22:04:57.257 [java] [DEBUG] Executing 'Ensure installation instructions are available' using 'class org.example.StepImplementation.ensureInstallationInstructionsAreAvailable
+01-07-2021 22:05:00.698 [html-report] [DEBUG] Transformed SuiteResult to report structure
+01-07-2021 22:05:00.740 [html-report] [INFO] Successfully generated html-report to => /Users/agamselbi/Documents/IntelijProjects/Gauge/reports/html-report/index.html
+01-07-2021 22:05:00.740 [html-report] [DEBUG] Done generating HTML report using theme from /Users/agamselbi/.gauge/plugins/html-report/4.0.12/themes/default
+01-07-2021 22:05:00.740 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+01-07-2021 22:05:00.743 [java] [DEBUG] Killing Java runner...
+01-07-2021 22:05:00.747 [java] [DEBUG] Stopping execution pool...
+01-07-2021 22:05:00.747 [java] [DEBUG] Shutting down grpc server...
+01-07-2021 22:05:00.767 [java] [DEBUG] Runner killed gracefully.
+01-07-2021 22:05:01.409 [Gauge] [DEBUG] Runner with PID:29749 has exited
+01-07-2021 22:05:01.410 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+01-07-2021 22:05:01.410 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+01-07-2021 22:05:01.410 [Gauge] [INFO] 
+Total time taken: 13.863s
+01-07-2021 23:47:00.505 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/agamselbi/Documents/IntelijProjects/Gauge/.gauge/screenshots
+01-07-2021 23:47:00.509 [Gauge] [DEBUG] Plugin java is already installed.
+01-07-2021 23:47:00.511 [Gauge] [DEBUG] Plugin html-report is already installed.
+01-07-2021 23:47:00.511 [Gauge] [DEBUG] Parsing started.
+01-07-2021 23:47:00.511 [Gauge] [DEBUG] Started concepts parsing.
+01-07-2021 23:47:00.517 [Gauge] [DEBUG] 0 concepts parsing completed.
+01-07-2021 23:47:00.517 [Gauge] [DEBUG] Started specifications parsing.
+01-07-2021 23:47:00.518 [Gauge] [DEBUG] 1 specifications parsing completed.
+01-07-2021 23:47:00.518 [Gauge] [DEBUG] Parsing completed.
+01-07-2021 23:47:00.532 [java] [DEBUG] ***** Printing Properties/Env Values *****
+01-07-2021 23:47:00.532 [java] [DEBUG] PATH: /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/agamselbi/.gauge/plugins/screenshot/0.0.1
+01-07-2021 23:47:00.532 [java] [DEBUG] JAVA_HOME: /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home
+01-07-2021 23:47:00.532 [java] [DEBUG] gauge_project_root: 
+01-07-2021 23:47:00.532 [java] [DEBUG] gauge_parallel_streams_count: 
+01-07-2021 23:47:00.532 [java] [DEBUG] gauge_reports_dir: reports
+01-07-2021 23:47:00.532 [java] [DEBUG] overwrite_reports: true
+01-07-2021 23:47:00.532 [java] [DEBUG] logs_directory: logs
+01-07-2021 23:47:00.532 [java] [DEBUG] enable_multithreading: false
+01-07-2021 23:47:00.532 [java] [DEBUG] gauge_specs_dir: specs
+01-07-2021 23:47:00.532 [java] [DEBUG] csv_delimiter: ,
+01-07-2021 23:47:00.532 [java] [DEBUG] gauge_java_home: 
+01-07-2021 23:47:00.532 [java] [DEBUG] gauge_custom_build_path: 
+01-07-2021 23:47:00.532 [java] [DEBUG] gauge_additional_libs: libs/*
+01-07-2021 23:47:00.532 [java] [DEBUG] gauge_jvm_args: 
+01-07-2021 23:47:00.532 [java] [DEBUG] gauge_custom_compile_dir: 
+01-07-2021 23:47:00.532 [java] [DEBUG] gauge_clear_state_level: scenario
+01-07-2021 23:47:00.532 [java] [DEBUG] ***** END *****
+01-07-2021 23:47:01.973 [Gauge] [DEBUG] Checking updates...
+01-07-2021 23:47:01.975 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+01-07-2021 23:47:03.425 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+01-07-2021 23:47:03.623 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=darwin&a=amd64
+01-07-2021 23:47:10.259 [java] [DEBUG] classpath set to /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/lib/tools.jar:/Users/agamselbi/Documents/IntelijProjects/Gauge/target/test-classes:/Users/agamselbi/.m2/repository/com/thoughtworks/gauge/gauge-java/0.7.15/gauge-java-0.7.15.jar:/Users/agamselbi/.m2/repository/com/github/javaparser/javaparser-core/3.16.3/javaparser-core-3.16.3.jar:/Users/agamselbi/.m2/repository/commons-io/commons-io/2.8.0/commons-io-2.8.0.jar:/Users/agamselbi/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/Users/agamselbi/.m2/repository/org/json/json/20210307/json-20210307.jar:/Users/agamselbi/.m2/repository/com/google/protobuf/protobuf-java/3.15.8/protobuf-java-3.15.8.jar:/Users/agamselbi/.m2/repository/com/google/guava/guava/30.1.1-jre/guava-30.1.1-jre.jar:/Users/agamselbi/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/agamselbi/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/agamselbi/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/agamselbi/.m2/repository/org/checkerframework/checker-qual/3.8.0/checker-qual-3.8.0.jar:/Users/agamselbi/.m2/repository/com/google/errorprone/error_prone_annotations/2.5.1/error_prone_annotations-2.5.1.jar:/Users/agamselbi/.m2/repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-netty-shaded/1.37.0/grpc-netty-shaded-1.37.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-core/1.37.0/grpc-core-1.37.0.jar:/Users/agamselbi/.m2/repository/com/google/android/annotations/4.1.1.4/annotations-4.1.1.4.jar:/Users/agamselbi/.m2/repository/io/perfmark/perfmark-api/0.23.0/perfmark-api-0.23.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-protobuf/1.37.0/grpc-protobuf-1.37.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-api/1.37.0/grpc-api-1.37.0.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-context/1.37.0/grpc-context-1.37.0.jar:/Users/agamselbi/.m2/repository/com/google/api/grpc/proto-google-common-protos/2.0.1/proto-google-common-protos-2.0.1.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-protobuf-lite/1.37.0/grpc-protobuf-lite-1.37.0.jar:/Users/agamselbi/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.19/animal-sniffer-annotations-1.19.jar:/Users/agamselbi/.m2/repository/io/grpc/grpc-stub/1.37.0/grpc-stub-1.37.0.jar:/Users/agamselbi/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar:/Users/agamselbi/.m2/repository/org/assertj/assertj-core/3.10.0/assertj-core-3.10.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-java/3.12.0/selenium-java-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-api/3.12.0/selenium-api-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.12.0/selenium-chrome-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.12.0/selenium-edge-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.12.0/selenium-firefox-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.12.0/selenium-ie-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.12.0/selenium-opera-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.12.0/selenium-remote-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.12.0/selenium-safari-driver-3.12.0.jar:/Users/agamselbi/.m2/repository/org/seleniumhq/selenium/selenium-support/3.12.0/selenium-support-3.12.0.jar:/Users/agamselbi/.m2/repository/net/bytebuddy/byte-buddy/1.8.3/byte-buddy-1.8.3.jar:/Users/agamselbi/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/agamselbi/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/agamselbi/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/agamselbi/.m2/repository/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar:/Users/agamselbi/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/agamselbi/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/agamselbi/.m2/repository/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1.jar:/Users/agamselbi/.m2/repository/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar:/Users/agamselbi/.m2/repository/io/github/bonigarcia/webdrivermanager/3.7.1/webdrivermanager-3.7.1.jar:/Users/agamselbi/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar:/Users/agamselbi/.m2/repository/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar:/Users/agamselbi/.m2/repository/org/rauschig/jarchivelib/1.0.0/jarchivelib-1.0.0.jar:/Users/agamselbi/.m2/repository/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar:/Users/agamselbi/.m2/repository/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar:/Users/agamselbi/.m2/repository/org/reflections/reflections/0.9.10/reflections-0.9.10.jar:/Users/agamselbi/.m2/repository/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA.jar:/Users/agamselbi/.m2/repository/com/google/code/findbugs/annotations/2.0.1/annotations-2.0.1.jar
+01-07-2021 23:47:10.319 [java] [DEBUG] found java executable in /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/bin/java
+01-07-2021 23:47:10.319 [java] [DEBUG] running - /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/bin/java [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+01-07-2021 23:47:10.319 [java] [DEBUG] stdout/stderr is logged to logs/31025-java.out
+01-07-2021 23:47:10.611 [java] [DEBUG] multithreading is set to false
+01-07-2021 23:47:11.174 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+01-07-2021 23:47:11.358 [java] [ERROR] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+01-07-2021 23:47:11.358 [java] [ERROR] SLF4J: Defaulting to no-operation (NOP) logger implementation
+01-07-2021 23:47:11.358 [java] [ERROR] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+01-07-2021 23:47:12.152 [java] [DEBUG] gauge-java took 1542milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+01-07-2021 23:47:12.153 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1542
+01-07-2021 23:47:12.153 [java] [DEBUG] starting gRPC server...
+01-07-2021 23:47:12.551 [java] [DEBUG] started gRPC server on port 57434
+01-07-2021 23:47:12.551 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57434
+01-07-2021 23:47:13.051 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57434
+01-07-2021 23:47:13.051 [Gauge] [DEBUG] Validation started.
+01-07-2021 23:47:19.302 [java] [DEBUG] Scanning packages for steps
+01-07-2021 23:47:19.523 [java] [DEBUG] Comparing 'org.example.StepImplementation.gotoLoginPage' and 'org.example.StepImplementation.gotoLoginPage'
+01-07-2021 23:47:19.524 [java] [DEBUG] Found Go to Dillard's Login Page in current project scope.
+01-07-2021 23:47:19.524 [java] [DEBUG] Comparing 'org.example.StepImplementation.ensureLoginPageIsDisplayed' and 'org.example.StepImplementation.ensureLoginPageIsDisplayed'
+01-07-2021 23:47:19.525 [java] [DEBUG] Found Ensure Login Page is displayed in current project scope.
+01-07-2021 23:47:19.525 [java] [DEBUG] Comparing 'org.example.StepImplementation.implementation1' and 'org.example.StepImplementation.implementation1'
+01-07-2021 23:47:19.525 [java] [DEBUG] Found Open the Dillard's homepage in current project scope.
+01-07-2021 23:47:19.526 [java] [DEBUG] Scanning packages for hooks
+01-07-2021 23:47:19.538 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+01-07-2021 23:47:19.539 [java] [DEBUG] 	Open the Dillard's homepage : public void implementation1()
+01-07-2021 23:47:19.539 [java] [DEBUG] 	Ensure Login Page is displayed : public void ensureLoginPageIsDisplayed() throws InterruptedException
+01-07-2021 23:47:19.539 [java] [DEBUG] 	Go to Dillard's Login Page : public void gotoLoginPage() throws InterruptedException
+01-07-2021 23:47:23.768 [Gauge] [DEBUG] Validation completed.
+01-07-2021 23:47:23.770 [Gauge] [DEBUG] Run started
+01-07-2021 23:47:23.772 [Gauge] [DEBUG] Starting Html Report plugin
+01-07-2021 23:47:23.852 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57486
+01-07-2021 23:47:23.856 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 57486
+01-07-2021 23:47:23.856 [Gauge] [DEBUG] Initialising suite data store.
+01-07-2021 23:47:25.169 [java] [ERROR] Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 38571
+01-07-2021 23:47:25.170 [java] [ERROR] Only local connections are allowed.
+01-07-2021 23:47:25.170 [java] [ERROR] Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+01-07-2021 23:47:25.221 [java] [ERROR] ChromeDriver was started successfully.
+01-07-2021 23:47:31.336 [java] [ERROR] Jul 01, 2021 11:47:31 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+01-07-2021 23:47:31.337 [java] [ERROR] INFO: Detected dialect: W3C
+01-07-2021 23:47:31.522 [java] [DEBUG] Executing 'Open the Dillard's homepage' using 'class org.example.StepImplementation.implementation1
+01-07-2021 23:47:44.046 [java] [DEBUG] Executing 'Go to Dillard's Login Page' using 'class org.example.StepImplementation.gotoLoginPage
+01-07-2021 23:47:48.280 [java] [DEBUG] Executing 'Ensure Login Page is displayed' using 'class org.example.StepImplementation.ensureLoginPageIsDisplayed
+01-07-2021 23:47:48.889 [html-report] [DEBUG] Transformed SuiteResult to report structure
+01-07-2021 23:47:48.930 [html-report] [INFO] Successfully generated html-report to => /Users/agamselbi/Documents/IntelijProjects/Gauge/reports/html-report/index.html
+01-07-2021 23:47:48.930 [html-report] [DEBUG] Done generating HTML report using theme from /Users/agamselbi/.gauge/plugins/html-report/4.0.12/themes/default
+01-07-2021 23:47:48.930 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+01-07-2021 23:47:48.938 [java] [DEBUG] Killing Java runner...
+01-07-2021 23:47:48.940 [java] [DEBUG] Stopping execution pool...
+01-07-2021 23:47:48.940 [java] [DEBUG] Shutting down grpc server...
+01-07-2021 23:47:48.958 [java] [DEBUG] Runner killed gracefully.
+01-07-2021 23:47:49.575 [Gauge] [DEBUG] Runner with PID:31025 has exited
+01-07-2021 23:47:49.575 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+01-07-2021 23:47:49.575 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+01-07-2021 23:47:49.575 [Gauge] [INFO] 
+Total time taken: 25.11s
